@@ -27,18 +27,42 @@
         <div class="card shadow-lg <?=$bg?>">
           <div class="card-body justify-content-center">
             <div class="title1 py-4 text-center">
-              For next some minutes, I am going to <span class="text-danger">CONTROL YOUR THOUGTHS!</span>
-							Are you ready?
+              Follow this <span class="text-danger">STEPS </span> first
             </div>
 						<div class="text-center">
 							<img src="img/brain.png" class="img-fluid w-50 border m-2">
 						</div>
-            <div class="text-secondary text-center">
-              MindReader: a machine who can supposedly discern what another person is thinking.
+
+
+            <div class="">
+              <h3>
+                Now Read Following instructions, and go according to them...!!
+              </h3>
+
+              <hr>
+              Just take any One 2 digit number in your mind....<br><br>
+              Raplace its both digits each other..<br><br>
+              Eg. If you take 57.<br><br>
+
+              Then Your New number will be =75<br><br>
+              Now differntiate max number from min...<br><br>
+              As  75-57=18..<br><br>
+
+              <center><img src="img/eg.jpg"></center>
+              THATS IT...<br><br>
+
+               <hr>
+               Now as 18, Your answer will be like something..
+               Now go to NEXT page..<br>And<br>
+               <span>Take a LOOK on a Symbol next to Your Answer...</span>
+               <br><br>
+               Dont Worry..<br>
+               I will display the <span >Symbol</span> which is Just infront of your answer..!!
+               <br><br>THATS MAGIC......!!!
+
             </div>
 
-
-            <a href="step2.php" class="btn btn-info btn-block btn-lg mt-4 bg-red font-weight-bold text-white border-white">Yes! Show Me How...</a>
+            <a href="step3.php" class="btn btn-info btn-block btn-lg mt-4 bg-red font-weight-bold text-white border-white">Show Me Symbols...</a>
 
           </div>
         </div>
@@ -47,7 +71,7 @@
           <small>
             <a class="text-dark" target="_blank" href="privacy.php">Privacy Policy</a> |
             <a class="text-dark" target="_blank" href="terms.php">Terms & Conditions</a> |
-						<a class="text-dark" target="_blank" href="disclaimer.php">Disclaimer</a> |
+            <a class="text-dark" target="_blank" href="disclaimer.php">Disclaimer</a> |
             <a class="text-dark" target="_blank" href="credits.php">Credits</a>
 
             <br>
